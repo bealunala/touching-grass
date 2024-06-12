@@ -1,0 +1,60 @@
+body {
+    background-color: #B4D3B2;
+}
+
+h1 {
+    font-size: 100px;
+    background-color: #26532B;
+    color: #ffea00;
+    position: fixed;     
+    text-align: center;
+    top: 100px; 
+    width: 50%;
+}
+#intro {
+    width: 40%;
+    margin: auto;
+    position: fixed;
+    top: 500px;
+    padding: 10px;
+    background-color: #26532B;
+    color: whitesmoke;
+    border: 1px solid whitesmoke;
+    border-radius: 10px;
+}
+
+p, a, #introText {
+    color: #ffea00;
+}
+a:hover { /*, a:visited {*/
+    color: #B4D3B2;
+    background-color: #26532B;
+}
+
+.convo {
+    text-align: center;
+    font-size: medium;
+}
+.date {
+    position: fixed;
+    top: 450px;
+    left: 100px;
+}
+.anime {
+    position: fixed;
+    top: 300px;
+    right: 100px;
+}
+.idkYet {
+    position: fixed;
+    top: 150px;
+    left: 250px;
+}
+#continue {
+    font-size: larger;
+    position: fixed;
+    left: 50%;
+    bottom: 200px;
+    transform: translate(-50%, -50%);
+    margin: 0 auto;
+}
