@@ -1,5 +1,6 @@
 body {
     background-color: #B4D3B2;
+    overflow: scroll;
 }
 
 h1 {
@@ -9,6 +10,7 @@ h1 {
     color: #ffea00;
     position: fixed;   
     top: 20%;
+    padding: 10px;
     /* top: 100px; */
     /* text-align: center; */
     /* width: 50%; */
