@@ -19,11 +19,12 @@ h1 {
 #about {
     position: fixed;   
     background-color: #26532B;
+    padding: 5px;
     border-radius: 5px;
     top: 20%;
     right: 2%;
 }
-#intro {
+#intro, .aboutText {
     width: 50%;
     margin: auto;
     position: fixed;
@@ -31,7 +32,6 @@ h1 {
     padding: 10px;
     background-color: #26532B;
     color: whitesmoke;
-    border: 1px solid whitesmoke;
     border-radius: 10px;
 }
 
