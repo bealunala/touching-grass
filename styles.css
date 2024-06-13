@@ -18,6 +18,8 @@ h1 {
 }
 #about {
     position: fixed;   
+    background-color: #26532B;
+    border-radius: 5px;
     top: 20%;
     right: 2%;
 }
