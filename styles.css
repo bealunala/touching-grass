@@ -1,10 +1,12 @@
 body {
     background-color: #B4D3B2;
-    overflow: scroll;
+    overflow-y: auto;
+    overflow: auto;
+    height: 100%;
 }
 
 h1 {
-    font-size: 400%;
+    font-size: 350%;
     background-color: #26532B;
     border-radius: 10px;
     color: #ffea00;
@@ -12,9 +14,6 @@ h1 {
     top: 1%;
     right: 1%;
     padding: 10px;
-    /* top: 100px; */
-    /* text-align: center; */
-    /* width: 50%; */
 }
 #about {
     position: fixed;   
@@ -29,7 +28,7 @@ h1 {
     margin: auto;
     position: fixed;
     top: 30%;
-    padding: 10px;
+    padding: 5px;
     background-color: #26532B;
     color: whitesmoke;
     border-radius: 10px;
