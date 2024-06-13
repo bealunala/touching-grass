@@ -4,22 +4,28 @@ body {
 }
 
 h1 {
-    font-size: 75px;
+    font-size: 400%;
     background-color: #26532B;
     border-radius: 10px;
     color: #ffea00;
     position: fixed;   
-    top: 20%;
+    top: 1%;
+    right: 1%;
     padding: 10px;
     /* top: 100px; */
     /* text-align: center; */
     /* width: 50%; */
 }
+#about {
+    position: fixed;   
+    top: 20%;
+    right: 2%;
+}
 #intro {
-    width: 40%;
+    width: 50%;
     margin: auto;
     position: fixed;
-    top: 50%;
+    top: 30%;
     padding: 10px;
     background-color: #26532B;
     color: whitesmoke;
