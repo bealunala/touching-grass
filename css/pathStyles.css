@@ -1,0 +1,41 @@
+body {
+    background-color: #B4D3B2;
+    background-image: url("/images/path.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    min-height: 100vh;
+}
+
+p, a, #introText {
+    color: #ffea00;
+}
+a:hover {
+    color: #B4D3B2;
+    background-color: #26532B;
+}
+
+.convo {
+    text-align: center;
+    font-size: medium;
+}
+.date {
+    position: fixed;
+    left: 10%;
+    bottom: 15%;
+}
+.anime {
+    position: fixed;
+    right: 10%;
+    bottom: 33%;
+}
+.bear {
+    position: fixed;
+    left: 25%;
+    bottom: 30%;
+}
+#continue {
+    font-size: larger;
+    position: fixed;
+    left: 53%;
+    bottom: 25%;
+}
