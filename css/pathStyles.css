@@ -1,6 +1,6 @@
 body {
     background-color: #B4D3B2;
-    background-image: url("/images/path.jpeg");
+    background-image: url("/images/path.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     min-height: 100vh;
@@ -19,23 +19,23 @@ a:hover {
     font-size: medium;
 }
 .sorry {
-    position: fixed;
-    left: 10%;
-    bottom: 15%;
+    position: absolute;
+    left: 20%;
+    bottom: 30%;
 }
 .picnic {
-    position: fixed;
+    position: absolute;
     right: 10%;
-    bottom: 33%;
+    bottom: 40%;
 }
 .bear {
-    position: fixed;
-    left: 25%;
-    bottom: 30%;
+    position: absolute;
+    left: 37%;
+    bottom: 36%;
 }
 #continue {
     font-size: larger;
-    position: fixed;
+    position: absolute;
     left: 53%;
     bottom: 25%;
 }
