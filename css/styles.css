@@ -35,6 +35,7 @@ body {
   .navbar a:hover {
     background: #ffea00;
     color: #26532B;
+    transition:0.3s;
   }
 
 #about {
