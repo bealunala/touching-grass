@@ -1,6 +1,6 @@
 body {
     background-color: #B4D3B2;
-    background-image: url("images/path.jpg");
+    background-image: url("/images/path.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     min-height: 100vh;
@@ -30,7 +30,7 @@ a:hover {
 }
 .bear {
     position: absolute;
-    left: 37%;
+    left: 36%;
     bottom: 36%;
 }
 #continue {
